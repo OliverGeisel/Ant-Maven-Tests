@@ -1,4 +1,4 @@
-package de.sub;
+package de.oliver.sub;
 
 public class SubSystem {
     public void foo() {

@@ -1,7 +1,7 @@
 <project name="haupt" default="jar" basedir="./" xmlns:resolver="antlib:org.apache.maven.resolver.ant">
     <taskdef uri="antlib:org.apache.maven.resolver.ant" resource="org/apache/maven/resolver/ant/antlib.xml" classpath="lib/maven-resolver-ant-tasks-1.3.1-uber.jar" />
     <target name="sub_build">
-        <!--<ant antfile="../sub/build.xml" dir="../sub" />-->
+        <ant antfile="../sub/build.xml" dir="../sub" />
     </target>
 
     <target name="clean">
@@ -10,29 +10,30 @@
 
     <target name="compile" depends="sub_build">
         <mkdir dir="bin" />
-        <resolver:resolve>
+        <!--
+		<resolver:resolve>
             <dependencies>
                 <dependency groupId="de.oliver" artifactId="sub" version="1.0-SNAPSHOT" type="jar" />
             </dependencies>
             <path refid="sub" />
         </resolver:resolve>
-        <javac classpathref="sub" srcdir="src" destdir="bin" encoding="UTF-8" source="1.8" target="1.8" debug="false" includeantruntime="no">
-            <!-- <classpath>
+		-->
+        <javac classpath="sub" bootclasspath="sub" srcdir="src" destdir="bin" encoding="UTF-8" source="1.8" target="1.8" debug="off" includeantruntime="no">
+            <classpath>
                 <pathelement location="lib/sub.jar"/>
-            </classpath> -->
+            </classpath> 
         </javac>
     </target>
 
     <target name="jar" depends="clean, compile">
-        <resolver:resolve>
+        <!--<resolver:resolve>
             <dependencies>
                 <dependency groupId="de.oliver" artifactId="sub" version="1.0-SNAPSHOT" type="jar" />
             </dependencies>
             <path refid="sub"/>
-        </resolver:resolve>
-        <jar basedir="bin" destfile="bin/main.jar">
+        </resolver:resolve>-->
+        <jar basedir="bin/" destfile="bin/main.jar">
 
-           <!-- <fileset refid="sub" />-->
             <zipgroupfileset dir="lib" includes="sub.jar" />
         </jar>
     </target>
