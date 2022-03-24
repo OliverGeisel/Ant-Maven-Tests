@@ -1,0 +1,152 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2021-07-21T01:05:55+02:00
+
+Notes: 3
+Binaries: 0
+Archives: 0
+Standards: 75
+
+Apache Licensed: 74
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+1 Unknown Licenses
+
+*****************************************************
+
+Files with unapproved licenses:
+
+  C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/.factorypath
+
+*****************************************************
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+ !????? C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/.factorypath
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/build.xml
+  N     C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/DEPENDENCIES
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/Jenkinsfile
+  N     C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/LICENSE
+  N     C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/NOTICE
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/pom.xml
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/assembly/bin.xml
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/AetherUtils.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/AntLogger.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/AntModelResolver.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/AntRepositoryListener.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/AntRepoSys.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/AntSecDispatcher.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/AntServiceLocatorErrorHandler.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/AntSettingsDecryptorFactory.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/AntTransferListener.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/ConverterUtils.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/Names.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/ProjectWorkspaceReader.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/SettingsUtils.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/tasks/AbstractDistTask.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/tasks/AbstractResolvingTask.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/tasks/DependencyGraphLogger.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/tasks/Deploy.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/tasks/Install.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/tasks/Layout.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/tasks/RefTask.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/tasks/Resolve.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/types/Artifact.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/types/ArtifactContainer.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/types/Artifacts.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/types/Authentication.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/types/Dependencies.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/types/Dependency.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/types/DependencyContainer.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/types/Exclusion.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/types/LocalRepository.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/types/Mirror.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/types/ModelValueExtractor.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/types/Pom.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/types/PomPropertyEvaluator.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/types/PomPropertyHelper.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/types/Proxy.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/types/RemoteRepositories.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/types/RemoteRepository.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/types/RemoteRepositoryContainer.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/java/org/apache/maven/resolver/internal/ant/types/Settings.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/main/resources/org/apache/maven/resolver/ant/antlib.xml
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/site/resources/download.cgi
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/site/site.xml
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/site/xdoc/download.xml.vm
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/java/org/apache/maven/resolver/internal/ant/AntBuildsTest.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/java/org/apache/maven/resolver/internal/ant/DeployTest.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/java/org/apache/maven/resolver/internal/ant/InstallTest.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/java/org/apache/maven/resolver/internal/ant/ProjectWorkspaceReaderTest.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/java/org/apache/maven/resolver/internal/ant/ReactorTest.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/java/org/apache/maven/resolver/internal/ant/ResolveTest.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/java/org/apache/maven/resolver/internal/ant/SettingsTest.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/java/org/apache/maven/resolver/internal/ant/tasks/LayoutTest.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/java/org/apache/maven/resolver/internal/ant/types/DependencyTest.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/java/org/apache/maven/resolver/internal/ant/types/ExclusionTest.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/java/org/apache/maven/resolver/internal/ant/types/PomTest.java
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/resources/ant/common.xml
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/resources/ant/Deploy/ant.xml
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/resources/ant/Deploy/dummy-pom.xml
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/resources/ant/Deploy/other-pom.xml
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/resources/ant/Install/ant.xml
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/resources/ant/Install/dummy-pom.xml
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/resources/ant/Install/other-pom.xml
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/resources/ant/Reactor/ant.xml
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/resources/ant/Reactor/pom1.xml
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/resources/ant/Reactor/pom2.xml
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/resources/ant/Resolve/ant.xml
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/resources/ant/Resolve/dummy-pom.xml
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/resources/ant/Resolve/pom.xml
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/resources/ant/Settings/ant.xml
+  AL    C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/src/test/resources/ProjectWorkspaceReader/dummy-pom.xml
+ 
+*****************************************************
+
+ Printing headers for text files without a valid license header...
+ 
+=====================================================
+== File: C:/Users/Oliver/workspace/jexam/TESTS/maven_ant/main/lib/maven-resolver-ant-tasks-1.3.1/.factorypath
+=====================================================
+<factorypath>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/ant/ant/1.10.10/ant-1.10.10.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/maven/resolver/maven-resolver-api/1.6.3/maven-resolver-api-1.6.3.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/maven/resolver/maven-resolver-util/1.6.3/maven-resolver-util-1.6.3.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/maven/resolver/maven-resolver-impl/1.6.3/maven-resolver-impl-1.6.3.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/maven/resolver/maven-resolver-spi/1.6.3/maven-resolver-spi-1.6.3.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/maven/resolver/maven-resolver-connector-basic/1.6.3/maven-resolver-connector-basic-1.6.3.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/maven/resolver/maven-resolver-transport-classpath/1.6.3/maven-resolver-transport-classpath-1.6.3.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/maven/resolver/maven-resolver-transport-file/1.6.3/maven-resolver-transport-file-1.6.3.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/maven/resolver/maven-resolver-transport-http/1.6.3/maven-resolver-transport-http-1.6.3.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/httpcomponents/httpclient/4.5.12/httpclient-4.5.12.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/commons-codec/commons-codec/1.11/commons-codec-1.11.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/slf4j/slf4j-nop/1.7.25/slf4j-nop-1.7.25.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/maven/maven-resolver-provider/3.6.3/maven-resolver-provider-3.6.3.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/maven/maven-model/3.6.3/maven-model-3.6.3.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/maven/maven-model-builder/3.6.3/maven-model-builder-3.6.3.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/eclipse/sisu/org.eclipse.sisu.inject/0.3.4/org.eclipse.sisu.inject-0.3.4.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/maven/maven-repository-metadata/3.6.3/maven-repository-metadata-3.6.3.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/codehaus/plexus/plexus-utils/3.2.0/plexus-utils-3.2.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/javax/inject/javax.inject/1/javax.inject-1.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/maven/maven-settings-builder/3.6.3/maven-settings-builder-3.6.3.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/maven/maven-builder-support/3.6.3/maven-builder-support-3.6.3.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/maven/maven-settings/3.6.3/maven-settings-3.6.3.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/sonatype/plexus/plexus-sec-dispatcher/1.4/plexus-sec-dispatcher-1.4.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/sonatype/plexus/plexus-cipher/1.7/plexus-cipher-1.7.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/codehaus/plexus/plexus-component-annotations/2.0.0/plexus-component-annotations-2.0.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/codehaus/plexus/plexus-interpolation/1.25/plexus-interpolation-1.25.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/eclipse/sisu/org.eclipse.sisu.plexus/0.3.3/org.eclipse.sisu.plexus-0.3.3.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>

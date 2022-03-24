@@ -1,0 +1,28 @@
+<project name="haupt" default="rebuild-all" basedir="./">
+
+    <target name="sub_build">
+        <ant antfile="../maven-sub/build.xml" target="jar" dir="../maven-sub" />
+    </target>
+
+    <target name="clean">
+        <delete dir="bin"/>
+    </target>
+    
+    <target name="compile" depends="clean,sub_build">
+        <mkdir dir="bin"/>
+        <javac srcdir="src/main/java" destdir="bin" encoding="UTF-8" source="1.8" target="1.8" debug="false" includeantruntime="no" >
+            <classpath>
+                <pathelement location="lib/sub.jar"/>
+            </classpath> 
+        </javac>   
+    </target>
+
+    <target name="jar" depends="compile" >
+        <jar basedir="bin" destfile="bin/main.jar">
+            <zipgroupfileset dir="lib" includes="sub.jar" />
+        </jar>        
+    </target>
+
+    <target name="rebuild-all" depends="clean,compile"/>
+
+</project>

@@ -1,0 +1,17 @@
+<project name="sub" default="jar">
+
+<target name="clean">
+    <delete dir="bin"/>
+</target>
+
+<target name="compile" depends="clean">
+    <mkdir dir="bin"/>
+    <javac srcdir="src/main/java" destdir="bin" encoding="UTF-8" source="1.8" target="1.8" debug="false" includeantruntime="no" />   
+</target>
+
+<target name="jar" depends="clean, compile">
+    <jar basedir="bin" destfile="bin/sub.jar" />
+    <jar basedir="bin" destfile="../maven-main/lib/sub.jar"/>
+</target>
+
+</project>

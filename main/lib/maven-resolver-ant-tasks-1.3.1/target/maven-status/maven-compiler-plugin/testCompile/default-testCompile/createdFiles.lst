@@ -1,0 +1,12 @@
+org\apache\maven\resolver\internal\ant\tasks\LayoutTest.class
+org\apache\maven\resolver\internal\ant\DeployTest.class
+org\apache\maven\resolver\internal\ant\InstallTest.class
+org\apache\maven\resolver\internal\ant\ResolveTest.class
+org\apache\maven\resolver\internal\ant\ProjectWorkspaceReaderTest.class
+org\apache\maven\resolver\internal\ant\types\PomTest.class
+org\apache\maven\resolver\internal\ant\AntBuildsTest$1.class
+org\apache\maven\resolver\internal\ant\SettingsTest.class
+org\apache\maven\resolver\internal\ant\types\ExclusionTest.class
+org\apache\maven\resolver\internal\ant\ReactorTest.class
+org\apache\maven\resolver\internal\ant\types\DependencyTest.class
+org\apache\maven\resolver\internal\ant\AntBuildsTest.class
