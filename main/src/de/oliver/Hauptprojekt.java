@@ -24,7 +24,7 @@ public class Hauptprojekt implements A, B{
     public static void main(String[] args) {
 		final Logger logger = LogManager.getLogger("Log4j-Logger");
 
-        System.out.println("Hallo");
+        System.out.println("Start");
 		logger.info("Loging gestartet!");
         SubSystem sub = new SubSystem();
         sub.foo();
@@ -34,7 +34,6 @@ public class Hauptprojekt implements A, B{
     }
 
     public void hello() {
-        System.out.println("Hallo");
         SubSystem sub = new SubSystem();
         sub.foo();
         System.out.println("Hallo vom HauptSystem");
