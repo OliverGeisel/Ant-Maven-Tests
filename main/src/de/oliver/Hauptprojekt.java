@@ -1,7 +1,7 @@
 package de.oliver.main;
 
-
 import de.oliver.sub.SubSystem;
+import org.apache.logging.log4j.*;
 
 interface A {
     void hello();
@@ -22,9 +22,15 @@ public class Hauptprojekt implements A, B{
 
 
     public static void main(String[] args) {
+		final Logger logger = LogManager.getLogger("Log4j-Logger");
+
         System.out.println("Hallo");
+		logger.info("Loging gestartet!");
         SubSystem sub = new SubSystem();
         sub.foo();
+		logger.debug("sub complete!");
+		Hauptprojekt haupt = new Hauptprojekt();
+		haupt.hello();
     }
 
     public void hello() {
